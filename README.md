@@ -25,7 +25,7 @@ git clone https://github.com/seu-usuario/sorteio-amigo-secreto.git
 Navegue até o diretório do projeto:
 
 bash
-cd sorteio-amigo-secreto
+cd amigo-secreto
 Abra o arquivo index.html no seu navegador.
 
 Estrutura do Projeto
