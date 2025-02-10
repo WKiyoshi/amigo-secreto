@@ -1,43 +1,39 @@
-Sorteio de Amigo Secreto
-Este é um programa simples para realizar o sorteio de nomes para um Amigo Secreto. Ele permite adicionar nomes à lista, visualizar a lista de amigos adicionados, sortear um nome aleatoriamente e resetar a lista de nomes.
+Sorteio de Amigo Secreto<br><br>
+Este é um programa simples para realizar o sorteio de nomes para um Amigo Secreto. Ele permite adicionar nomes à lista, visualizar a lista de amigos adicionados, sortear um nome aleatoriamente e resetar a lista de nomes.<br><br>
 
-Funcionalidades
-Adicionar nomes à lista
+===================================<br><br>
 
-Visualizar a lista de amigos
+Funcionalidades<br><br>
+Adicionar nomes à lista<br>
 
-Sortear um nome aleatoriamente
+Visualizar a lista de amigos<br>
 
-Resetar a lista de nomes
+Sortear um nome aleatoriamente<br>
 
-Tecnologias Utilizadas
-HTML
+Resetar a lista de nomes<br><br>
 
-CSS
+===================================<br><br>
 
-JavaScript
+Tecnologias Utilizadas<br><br>
+HTML<br>
 
-Como Usar
-Clone o repositório:
+CSS<br>
 
-bash
-git clone https://github.com/seu-usuario/sorteio-amigo-secreto.git
-Navegue até o diretório do projeto:
+JavaScript<br><br>
 
-bash
-cd amigo-secreto
-Abra o arquivo index.html no seu navegador.
+===================================<br><br>
 
-Estrutura do Projeto
-plaintext
-.<br>
+Estrutura do Projeto<br>
+<br>
 ├── index.html<br>
 ├── style.css<br>
 ├── app.js<br>
 └── assets<br>
     ├── amigo-secreto.png<br>
     ├── play_circle_outline.png<br>
-    └── reset_icon.png<br>
+    └── reset_icon.png<br><br>
+    
+===================================<br><br>
 
-Contribuições
+Contribuições<br>
 Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou encontrar algum bug, sinta-se à vontade para abrir uma issue ou enviar um pull request.
